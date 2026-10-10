@@ -26,12 +26,7 @@
 
 ### 文件命名建议
 
-每次组会材料按“日期/汇报人”存放，并将 PPT 与相关论文放在同一目录中：
+建议将每次组会 PPT 统一存放在 `slides/` 目录下，并采用如下命名格式：
 
 ```text
-YYMMDD/
-└── 汇报人/
-    ├── 汇报PPT.pptx
-    ├── 论文1.pdf
-    └── 论文2.pdf
-```
+YYYY-MM-DD-presenter-topic.pdf
